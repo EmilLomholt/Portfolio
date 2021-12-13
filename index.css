@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Arial, Helvetica, sans-serif;
+    src: url();
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("images/Backgroundphoto.jpeg")
+}
+
+.topnav{
+    background-color: #58896D;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.navigation{
+    background-color: #A2E687;
+    display: none;
+}
