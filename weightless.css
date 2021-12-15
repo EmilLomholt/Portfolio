@@ -1,0 +1,43 @@
+body {
+
+}
+
+
+#straaling {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    margin-bottom: 5%;
+    width: 80vw;
+    border: 3px solid #010101;
+}
+
+#textbox {
+    background-color: #A2E687;
+    border: 3px solid #010101;
+    margin: 5%;
+    margin-top: -20%;
+    padding: 4%;
+    position: relative;
+    top: 80px;
+}
+
+#tilbageKnap {
+    width: 15vw;
+    height: 15vw;
+    background-color: #A2E687;
+    border-radius: 50%;
+    padding: 5%;
+    display: flex;
+    border: 3px solid #010101;
+    margin: 1%;
+    margin-top: 90px;
+    margin-left: 250px;
+}
+
+#pil {
+    width: 15vw;
+    align-items: center;
+    margin-left: 4px;
+}
